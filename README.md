@@ -26,31 +26,31 @@ The dataset (`Cust_Purch_FakeData.csv`) contains customer details, including nam
 
 The following analyses were performed on the dataset using Python and Pandas:
 1.	Dataset Overview
-    - ** Number of entries and columns.
-    - ** Max, min, and mean age of customers.
+        - Number of entries and columns.
+        - Max, min, and mean age of customers.
 2.	Customer Names
-      o	Top 3 most common customer names.
+        - Top 3 most common customer names.
 3.	Duplicate Phone Numbers
-      o	Customers sharing the same phone number.
+        - Customers sharing the same phone number.
 4.	Profession Analysis
-      o	Number of customers with the profession "Structural Engineer."
-      o	Number of male "Structural Engineers."
-      o	Female "Structural Engineers" from Alberta (AB).
+        - Number of customers with the profession "Structural Engineer."
+        - Number of male "Structural Engineers."
+        - Female "Structural Engineers" from Alberta (AB).
 5.	Spending Analysis
-      o	Max, min, and average spending.
-      o	Customers who did not spend anything.
-      o	Customers who spent 100 CAD or more.
+       - Max, min, and average spending.
+       - Customers who did not spend anything.
+       - Customers who spent 100 CAD or more.
 6.	Credit Card Analysis
-      o	Emails associated with a specific credit card number.
-      o	Number of credit cards expiring in 2019.
-      o	Number of customers using Visa.
-    o	Customer who spent 100 CAD using Visa.
+       - Emails associated with a specific credit card number.
+       - Number of credit cards expiring in 2019.
+       - Number of customers using Visa.
+    - Customer who spent 100 CAD using Visa.
 7.	Profession and Email Analysis
-    o	Top 2 most common professions.
-    o	Top 5 most popular email providers.
-    o	Customers using an email with "am.edu."
+     - Top 2 most common professions.
+     - Top 5 most popular email providers.
+     - Customers using an email with "am.edu."
 8.	Customer Traffic Analysis
-    o	Day of the week with the most customers.
+    - Day of the week with the most customers.
 
 
 
