@@ -26,8 +26,8 @@ The dataset (`Cust_Purch_FakeData.csv`) contains customer details, including nam
 
 The following analyses were performed on the dataset using Python and Pandas:
 1.	Dataset Overview
-      o	Number of entries and columns.
-      o	Max, min, and mean age of customers.
+    - ** Number of entries and columns.
+    - ** Max, min, and mean age of customers.
 2.	Customer Names
       o	Top 3 most common customer names.
 3.	Duplicate Phone Numbers
