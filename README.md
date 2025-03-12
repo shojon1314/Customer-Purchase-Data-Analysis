@@ -29,13 +29,13 @@ The following analyses were performed on the dataset using Python and Pandas:
         - Number of entries and columns.
         - Max, min, and mean age of customers.
 2.	Customer Names
-        - Top 3 most common customer names.
+       - Top 3 most common customer names.
 3.	Duplicate Phone Numbers
         - Customers sharing the same phone number.
 4.	Profession Analysis
-        - Number of customers with the profession "Structural Engineer."
-        - Number of male "Structural Engineers."
-        - Female "Structural Engineers" from Alberta (AB).
+      - Number of customers with the profession "Structural Engineer."
+      - Number of male "Structural Engineers."
+      - Female "Structural Engineers" from Alberta (AB).
 5.	Spending Analysis
        - Max, min, and average spending.
        - Customers who did not spend anything.
