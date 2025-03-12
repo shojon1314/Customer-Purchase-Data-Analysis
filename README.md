@@ -61,17 +61,17 @@ Key Findings:
 4.	Duplicate Phone Numbers
          - Two customers share the same phone number: Mrs. Lilly Tyler and Mrs. Peter Cain.
 5.	Structural Engineers
-         - 	There are 2 Structural Engineers in the dataset, with 1 male and 1 female from Alberta (AB).
+         - There are 2 Structural Engineers in the dataset, with 1 male and 1 female from Alberta (AB).
 6.	Spending Habits
-o	The maximum spending is 100 CAD, and the minimum is 0.66 CAD.
-o	One customer did not spend anything: Dr. Catherine Morales.
+         - The maximum spending is 100 CAD, and the minimum is 0.66 CAD.
+         - One customer did not spend anything: Dr. Catherine Morales.
 7.	Credit Card Usage
-o	50 customers use Visa as their credit card provider.
-o	5 credit cards are expiring in 2019.
+         - 50 customers use Visa as their credit card provider.
+         - 5 credit cards are expiring in 2019.
 8.	Email Providers
-o	The top 5 email providers are yahoo.com, hotmail.com, gmail.com, kol.km, and jatsot.ug.
+         - The top 5 email providers are yahoo.com, hotmail.com, gmail.com, kol.km, and jatsot.ug.
 9.	Customer Traffic
-o	The store receives the most customers on Friday.
+         - The store receives the most customers on Friday.
 
 
 ## Pandas Code
