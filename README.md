@@ -52,7 +52,7 @@ The following questions were explored using **Pandas**:
 
 Key Findings:
 1.	Dataset Size
-        - The dataset contains 500 entries and 19 columns.
+         - The dataset contains 500 entries and 19 columns.
 2.	Customer Age
         - The youngest customer is 18 years old, and the oldest is 65 years old.
         - The average customer age is approximately 42.5 years.
