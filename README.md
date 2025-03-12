@@ -1,4 +1,4 @@
-# Customer Purchase Analysis using Pandas
+# Customer Purchase Data Analysis using Pandas
 
 ## Overview
 This project analyzes a customer purchase dataset using **Pandas** to extract key insights such as customer demographics, spending habits, and patterns.
@@ -22,26 +22,40 @@ The dataset (`Cust_Purch_FakeData.csv`) contains customer details, including nam
 - **Purchase Date**: Date of last purchase
 
 ## Analysis Performed
-The following questions were explored using **Pandas**:
 
-1. How many entries and columns are in the dataset?
-2. What are the maximum, minimum, and average ages of customers?
-3. What are the three most common customer names?
-4. Are there duplicate phone numbers?
-5. How many customers have "Structural Engineer" as a profession?
-6. How many male customers are Structural Engineers?
-7. How many female Structural Engineers are from Alberta (AB)?
-8. What are the max, min, and average spending amounts?
-9. Which customers did not spend anything?
-10. Who spent 100 CAD or more (eligible for a loyalty reward)?
-11. How many emails are associated with a specific credit card number?
-12. How many credit cards are expiring in 2019?
-13. How many people use Visa as their credit card provider?
-14. Which customer spent 100 CAD using Visa?
-15. What are the two most common professions?
-16. What are the top five most common email providers (e.g., Gmail, Yahoo)?
-17. Are there any customers using an email with "am.edu"?
-18. Which day of the week has the highest number of customer purchases?
+
+The following analyses were performed on the dataset using Python and Pandas:
+1.	Dataset Overview
+      o	Number of entries and columns.
+      o	Max, min, and mean age of customers.
+2.	Customer Names
+      o	Top 3 most common customer names.
+3.	Duplicate Phone Numbers
+      o	Customers sharing the same phone number.
+4.	Profession Analysis
+      o	Number of customers with the profession "Structural Engineer."
+      o	Number of male "Structural Engineers."
+      o	Female "Structural Engineers" from Alberta (AB).
+5.	Spending Analysis
+      o	Max, min, and average spending.
+      o	Customers who did not spend anything.
+      o	Customers who spent 100 CAD or more.
+6.	Credit Card Analysis
+      o	Emails associated with a specific credit card number.
+      o	Number of credit cards expiring in 2019.
+      o	Number of customers using Visa.
+    o	Customer who spent 100 CAD using Visa.
+7.	Profession and Email Analysis
+    o	Top 2 most common professions.
+    o	Top 5 most popular email providers.
+    o	Customers using an email with "am.edu."
+8.	Customer Traffic Analysis
+    o	Day of the week with the most customers.
+
+
+
+
+
 
 ## Installation and Usage
 ### Prerequisites
