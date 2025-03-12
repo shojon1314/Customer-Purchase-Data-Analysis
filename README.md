@@ -52,16 +52,16 @@ The following questions were explored using **Pandas**:
 
 Key Findings:
 1.	Dataset Size
-               * The dataset contains 500 entries and 19 columns.
+        - The dataset contains 500 entries and 19 columns.
 2.	Customer Age
-               * The youngest customer is 18 years old, and the oldest is 65 years old.
-               * The average customer age is approximately 42.5 years.
+        - The youngest customer is 18 years old, and the oldest is 65 years old.
+        - The average customer age is approximately 42.5 years.
 3.	Top Names
-o	The most common customer names are Harry, Cody, and Lily.
+         - The most common customer names are Harry, Cody, and Lily.
 4.	Duplicate Phone Numbers
-o	Two customers share the same phone number: Mrs. Lilly Tyler and Mrs. Peter Cain.
+         - Two customers share the same phone number: Mrs. Lilly Tyler and Mrs. Peter Cain.
 5.	Structural Engineers
-o	There are 2 Structural Engineers in the dataset, with 1 male and 1 female from Alberta (AB).
+         - 	There are 2 Structural Engineers in the dataset, with 1 male and 1 female from Alberta (AB).
 6.	Spending Habits
 o	The maximum spending is 100 CAD, and the minimum is 0.66 CAD.
 o	One customer did not spend anything: Dr. Catherine Morales.
